@@ -1,0 +1,35 @@
+body {
+  background-color: #000000;
+  font-family: 'Wire One', sans-serif;
+}
+.main {
+    background-image: url('images/Nobu-1.jpg');
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    background-position: center center;
+}
+header {
+  padding-left: 20px;
+  color: #fff;
+  font-size: 3.0em;
+  margin: 20px 0;
+}
+* {
+  box-sizing: border-box;
+}
+
+.list {
+  text-align: left;
+  height: 100px;
+  padding-left: 20px
+  margin: 20px 100px;
+}
+#quiz {
+  display: table-cell;
+  vertical-align: bottom;
+  height: 70vh;
+  width: 200px;
+  }
+
+}

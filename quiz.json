@@ -1,0 +1,48 @@
+{
+  "name":"Nobuyuki",
+  "questions":[{
+    "question" : "How Many Keys Are There On A Concert Piano",
+    "rightAnswer" : "88",
+    "wrongAnswers" : ["58", "68", "80"]
+  },
+  {
+    "question" : "How Many Black Keys Are There?",
+    "rightAnswer" : "36",
+    "wrongAnswers" : ["34", "35", "37"]
+  },
+  {
+    "question" : "Who Plays Better?",
+    "rightAnswer" : "Me .. haha",
+    "wrongAnswers" : ["Lang Lang", "Yundi Li", "Natalia Kartashova"]
+  },
+  {
+    "question" : "How Many White Keys Are There?",
+    "rightAnswer" : "52",
+    "wrongAnswers" : ["50", "54", "58"]
+  },
+{
+  "question" : "Which Composers Never Wrote A Piano Concerto?",
+  "rightAnswer" : "Claude Debussy",
+  "wrongAnswers" : ["Frank Liszt", "Caille Saint-Saens", "Edvard Grieg"]
+},
+{
+  "question" : "What Device is used to hit the strings when you press down a key?",
+  "rightAnswer" : "Hammer",
+  "wrongAnswers" : ["Bow", "Plectrum", "Reed"]
+},
+{
+  "question" : "What is the literal translation of 'Pianoforte' ?",
+  "rightAnswer" : "Quiet-Loud",
+  "wrongAnswers" : ["Brave", "Piano", "Soft"]
+},
+{
+  "question" : "The piano is commonly placed in which section of the orchestra?",
+  "rightAnswer" : "Percussion",
+  "wrongAnswers" : ["String", "Brass", "Woodwind"]
+},
+{
+  "question" : "What is the lowest note on most pianos??",
+  "rightAnswer" : "A",
+  "wrongAnswers" : ["B", "C", "D"]
+}]
+}
