@@ -25,11 +25,13 @@ header {
   padding-left: 20px
   margin: 20px 100px;
 }
-#quiz {
+.quizid {
   display: table-cell;
   vertical-align: bottom;
   height: 70vh;
   width: 200px;
-  }
 
+}
+a {
+  color: #fff;
 }

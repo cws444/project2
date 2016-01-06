@@ -1,5 +1,5 @@
 /*Get Data From server*/
-window.fetch('/quiz1').then(function (response) {
+window.fetch('/quiz').then(function (response) {
   response.text().then(function (data) {
 //make response into object so that we can manipulate
     var quiz = JSON.parse(data)
@@ -7,7 +7,7 @@ window.fetch('/quiz1').then(function (response) {
     var title = document.getElementById('title')
     title.innerText = `How Well Do You Know ${quiz['name']}?`
 //create quizContainer
-    var quizContainer = document.getElementById('quiz')
+    var quizContainer = document.getElementById('quiz1id')
 //create questionContainer
     var questionContainer = document.createElement('div')
     //give questionContainer the class of 'questionContainer'
